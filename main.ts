@@ -1,7 +1,7 @@
 /**
  * -----------------------------------
  */
-namespace HUMDUM {
+namespace cat {
     const CameraAdd = 0X14;
     let DataBuff = pins.createBuffer(9);
     /**
