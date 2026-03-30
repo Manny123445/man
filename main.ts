@@ -1,7 +1,7 @@
 /**
  * -----------------------------------
  */
-namespace PlanetX_AILens {
+namespace HUMDUM {
     const CameraAdd = 0X14;
     let DataBuff = pins.createBuffer(9);
     /**
